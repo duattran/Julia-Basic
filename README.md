@@ -1,6 +1,5 @@
 <p text-align="center">
-<h3>🎄[ THE JULIA PROGRAMMING LANGUAGE – THE FUTURE OF SCIENTIFIC COMPUTING ]🎄</h3>
-<h3>🎯On 14 February 2012  – Đánh dấu sự ra đời của ngôn ngữ lập trình Julia❤️</h3>
+<h3>🎄[ THE JULIA PROGRAMMING LANGUAGE – THE FUTURE OF SCIENTIFIC COMPUTING ]🎄 </br>🎯On 14 February 2012  – Đánh dấu sự ra đời của ngôn ngữ lập trình Julia❤️</h3>
 </p>
 </br>
 <p>🫧Sự ra đời của Julia đã đem đến làn gió mới ở giới công nghệ trong các lĩnh vực tính toán khoa học (Science Computing or Data Science)🫧</p>
