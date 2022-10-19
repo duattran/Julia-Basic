@@ -1,13 +1,10 @@
 <p text-align="center">
 <h3>🎄[ THE JULIA PROGRAMMING LANGUAGE – THE FUTURE OF SCIENTIFIC COMPUTING ]🎄</h3>
-<h3>🎄[ THE JULIA PROGRAMMING LANGUAGE – THE FUTURE OF SCIENTIFIC COMPUTING ]🎄</h3>
+<h3>🎯On 14 February 2012  – Đánh dấu sự ra đời của ngôn ngữ lập trình Julia❤️</h3>
 </p>
 </br>
-<p>🎯On 14 February 2012  – Đánh dấu sự ra đời của ngôn ngữ lập trình Julia❤️</p>
 <p>🫧Sự ra đời của Julia đã đem đến làn gió mới ở giới công nghệ trong các lĩnh vực tính toán khoa học (Science Computing or Data Science)🫧</p>
-</br>
 <p>👉👈Julia là một ngôn ngữ lập trình mã nguồn mở và miễn phí được sử dụng rộng rãi trong tính toán khoa học hay khoa học dữ liệu. Với các tính năng như đánh máy tùy chọn, đa điều phối và hiệu suốt tốt có được bằng cách sử dụng tính năng Type Inference và cơ chế biên dịch Just-In-Time (JIT) được xây dựng trên nền tảng bằng LLVM, code Julia sẽ được dịch trực tiếp thành mã máy, do đó tốc độ xử có thể so sánh bằng với C hay C++🫶</p>
-</br>
 <p>👉Julia được ra đời với mục đich lớn lao là giải quyết các vấn đề mà các ngôn ngữ như C, C++, Fortran, Matlab, R hay python chưa làm được trong các lĩnh vực trên như:</p>
 <p>•	C, C++, Fortran (static): tốc độ nhanh nhưng việc phát triển xây dựng các mô hình tính toán quá phức tập , tốn thời gian</p>
 <p>•	Matlab, R: không thích hợp cho phát triển xây dựng các mô hình lớn dù có support đầy đủ tính năng, hay hàm cần thiết nhưng tốc độ xử lý lại khá chậm. </p>
@@ -19,21 +16,14 @@
 <h3>🎄[ THE JULIA PROGRAMMING LANGUAGE: THE FUTURE OF SCIENTIFIC COMPUTING ]🎄</h3>
 </br>
 <p>🎢When looking at programming languages for data science, Python reigns supreme. Python and R rule the data world, casting a shadow on similar languages.🎢</p>
-</br>
 <p>✨But one language has distinguished itself from the pack and has slowly been moving towards the light. That language is Julia. Despite its young age, Julia enthusiasts are already calling it the “future language” of Data Science, Science Computing and AI✨</p>
-</br>
 <p>❤️Julia is am innovative new open-source programming language for high-level, high-performance numerical computing. Julia combines the general-purpose breadth and extensibility of Python, the ease-of-use and numeric focus of Matlab, the speed of C and Fortran, and the metaprogramming power of Lisp. Julia uses Type Inference and Just-In-Time (JIT) compilation to compile high-level user code to machine code on the fly. A rich set of numeric types and extensive numerical libraries are built-in. As a result, Julia is competitive with Matlab for interactive graphical exploration and with C and Fortran for high-performance computing. This talk interactively demonstrates Julia’s numerical features and benchmarks Julia against C, C++, Fortran, Matlab and Python on a spectral time-stepping algorithm for nonlinear partial differential equation. The Julia code is nearly as compact as Matlab and nearly as fast as Fortran❤️</p>
 </br>
 <p>Github: https://github.com/.../blob/Main/Introduction_Julia.md</p>
 </br>
 <p>Cre: Tran Van Duat</p>
-</br>
 <p>Cre: Gibson, John</p>
-</br>
 <p>#Julia_and_python_for_beginners</p>
-</br>
 <p>#Julia_language</p>
-</br>
 <p>#Python_language</p>
-</br>
 <p><img src="image/bai111111.png"></p>
