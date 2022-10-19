@@ -1,4 +1,4 @@
-<p texr-align="center">
+<p text-align="center">
 <a>🎄[ THE JULIA PROGRAMMING LANGUAGE – THE FUTURE OF SCIENTIFIC COMPUTING ]🎄</a>
 </p>
 🎄[ THE JULIA PROGRAMMING LANGUAGE – THE FUTURE OF SCIENTIFIC COMPUTING ]🎄
